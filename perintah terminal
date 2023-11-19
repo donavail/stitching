@@ -1,0 +1,4 @@
+python stitch.py --images images/scottsdale --output output.png
+
+python stitch.py --images images/scottsdale --output output.jpg \
+	--crop 1
