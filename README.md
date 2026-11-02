@@ -1,4 +1,4 @@
-# Stitching
+# Image Stitching
 
 This repository contains how to make stitched images with CMD
 
